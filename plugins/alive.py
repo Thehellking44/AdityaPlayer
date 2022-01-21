@@ -41,7 +41,7 @@ async def start_(client: Client, message: Message):
 ┣★ ᴄʀᴇᴀᴛᴏʀ : [𝙐𝙏𝙆𝘼𝙍𝙎𝙃](https://t.me/ABOUT_PAPA)
 ┣★ ᴜᴘᴅᴀᴛᴇs : [𝘽𝘼𝙅𝙍𝘼𝙉𝙂 𝘿𝘼𝙇](https://t.me/Official_BajrangDal)
 ┣★ sᴜᴘᴘᴏʀᴛ : [𝘽𝘼𝙅𝙍𝘼𝙉𝙂 𝘿𝘼𝙇](https://t.me/Official_BajrangDal)
-┣★ sᴏᴜʀᴄᴇ › : [𝙐𝙈𝙈𝙈𝙈..𝙉𝙊](https://github.com/mradityaxd/adityaplayer)
+┣★ sᴏᴜʀᴄᴇ › : [𝙐𝙈𝙈𝙈𝙈..𝙉𝙊](https://t.me/Official_BajrangDal)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
